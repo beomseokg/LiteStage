@@ -1,4 +1,4 @@
 ## Latency-aware Layer Skipping for Multi-stage Reasoning ##
-![Example Image](figure_overview.pdf)
+![Example Image](overview.pdf)
 
-This is an official implementation of LiteStage: Latency-aware Layer Skipping for Multi-stage Reasoning.
+This is an official implementation (under construction) of LiteStage: Latency-aware Layer Skipping for Multi-stage Reasoning.
